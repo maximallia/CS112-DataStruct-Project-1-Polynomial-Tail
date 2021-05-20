@@ -17,7 +17,7 @@ A polynomial may be represented using a linked list as follows: for every term i
 For example, the following polynomial (the symbol '^' is used to mean 'raised to the power'):
       4x^5 - 2x^3 + 2x +3
       
-                         can be represented as the linked list of terms:
+can be represented as the linked list of terms:
                          
 (3,0) -> (2,1) -> (-2,3) -> (4,5)
 
