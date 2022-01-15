@@ -26,3 +26,5 @@ Terms are stored in ASCENDING order of degrees from front to rear in a non-circu
 An EMPTY (zero) polynomial is represented by a linked list with NO NODES in it, i.e. referenced by NULL. Coefficients are floating point numbers
 Degrees are POSITIVE integers, except if there is a constant term, in which case the degree is zero. There will not be more than one term in the same degree.
 If you do not represent all your polynomials (the initial inputs as well as those you get out of doing arithmetic on polynomials) as above, you will lose credit even if your results are mathematically correct.
+
+MORE INFO: Assignment 1 description.pdf
